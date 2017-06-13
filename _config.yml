@@ -1,22 +1,20 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Xzy Blog
+SEOTitle: 薛泽云的博客 | Xzy Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://yarn.github.io"              # your host, for absolute URL
+email: 2356825441@qq.com
+url: "https://xuezy.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     xzy
+zhihu_username:     xzy
+github_username:    xzy
+twitter_username:   xzy
+#facebook_username:  xzy
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -48,13 +46,13 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: xzy
 
 # Netease setttings
 netease_comment: true
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: xzyblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -67,7 +65,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: yarn.github.io
+ga_domain: xuezy.github.io
 
 
 
